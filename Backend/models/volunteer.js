@@ -1,4 +1,4 @@
-import mongoose from "momgoose";
+import mongoose from "mongoose";
 
 const volunteerSchema=new mongoose.Schema({
     name:String,
